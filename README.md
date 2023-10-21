@@ -6,7 +6,8 @@
 ![image](https://github.com/silvioflorentino/appCurso/assets/28194425/63de773c-2f06-4d11-b83f-8bd3e17b46b6)
 
 #Cadastro de Aula
-![image](https://github.com/silvioflorentino/appCurso/assets/28194425/b2b91afa-ecd5-4a0f-bcd4-ca149f22cfb3)
+![image](https://github.com/silvioflorentino/appCurso/assets/28194425/4c0f4c29-e881-4bcd-b7dc-d21629892880)
+
 
 
 
